@@ -1,0 +1,10 @@
+
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+1
+java:S5164"Call "remove()" on "today".(šÍÅ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(Â–„
+q	java:S116H"WRename this field "THREAD_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–´‡ùÿÿÿÿÿ
+<
+java:S1170H"!Make this final field static too.(–´‡ùÿÿÿÿÿ

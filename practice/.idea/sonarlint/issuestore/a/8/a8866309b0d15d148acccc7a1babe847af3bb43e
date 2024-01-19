@@ -1,0 +1,12 @@
+
+`	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(¿ªÜ¬şÿÿÿÿ
+g	java:S101v"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡ÏàÀùÿÿÿÿ
+1
+java:S5164"Call "remove()" on "today".(šÍÅ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(Ğëáä
+<
+java:S1170O"!Make this final field static too.(Öú©üÿÿÿÿ
+B
+java:S1602Z",Remove useless curly braces around statement(ÕêÓ¬
